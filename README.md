@@ -1,1 +1,3 @@
 # Custom LSP
+
+Avoiding Dependencies
