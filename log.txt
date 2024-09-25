@@ -1,9 +1,26 @@
-[practiceLSP]2024/09/24 22:49:11 main.go:14: LSP Attached
-[practiceLSP]2024/09/24 22:49:11 main.go:29: Received message with method initialize
-[practiceLSP]2024/09/24 22:49:11 main.go:36: Connected to Neovim 0.10.1
-[practiceLSP]2024/09/24 22:49:11 main.go:43: Sent reply
-[practiceLSP]2024/09/24 22:49:11 main.go:29: Received message with method initialized
-[practiceLSP]2024/09/24 22:49:12 main.go:29: Received message with method textDocument/didSave
-[practiceLSP]2024/09/24 22:49:13 main.go:29: Received message with method textDocument/didSave
-[practiceLSP]2024/09/24 22:49:13 main.go:29: Received message with method textDocument/didSave
-[practiceLSP]2024/09/24 22:49:13 main.go:29: Received message with method shutdown
+[practiceLSP]2024/09/25 12:36:30 main.go:16: LSP Attached
+[practiceLSP]2024/09/25 12:36:30 main.go:33: Received message with method initialize
+[practiceLSP]2024/09/25 12:36:30 main.go:40: Connected to Neovim 0.10.1
+[practiceLSP]2024/09/25 12:36:30 main.go:45: Sent reply
+[practiceLSP]2024/09/25 12:36:30 main.go:33: Received message with method initialized
+[practiceLSP]2024/09/25 12:36:30 main.go:33: Received message with method textDocument/didOpen
+[practiceLSP]2024/09/25 12:36:30 main.go:51: Opened: file:///home/juderozario/PracticeLSP/README.md
+[practiceLSP]2024/09/25 12:36:31 main.go:33: Received message with method textDocument/didChange
+[practiceLSP]2024/09/25 12:36:31 main.go:58: Changed: file:///home/juderozario/PracticeLSP/README.md
+[practiceLSP]2024/09/25 12:36:32 main.go:33: Received message with method textDocument/didChange
+[practiceLSP]2024/09/25 12:36:32 main.go:58: Changed: file:///home/juderozario/PracticeLSP/README.md
+[practiceLSP]2024/09/25 12:36:32 main.go:33: Received message with method textDocument/didChange
+[practiceLSP]2024/09/25 12:36:32 main.go:58: Changed: file:///home/juderozario/PracticeLSP/README.md
+[practiceLSP]2024/09/25 12:36:32 main.go:33: Received message with method textDocument/didChange
+[practiceLSP]2024/09/25 12:36:32 main.go:58: Changed: file:///home/juderozario/PracticeLSP/README.md
+[practiceLSP]2024/09/25 12:36:33 main.go:33: Received message with method textDocument/didChange
+[practiceLSP]2024/09/25 12:36:33 main.go:58: Changed: file:///home/juderozario/PracticeLSP/README.md
+[practiceLSP]2024/09/25 12:36:33 main.go:33: Received message with method textDocument/didChange
+[practiceLSP]2024/09/25 12:36:33 main.go:58: Changed: file:///home/juderozario/PracticeLSP/README.md
+[practiceLSP]2024/09/25 12:36:33 main.go:33: Received message with method textDocument/didChange
+[practiceLSP]2024/09/25 12:36:33 main.go:58: Changed: file:///home/juderozario/PracticeLSP/README.md
+[practiceLSP]2024/09/25 12:36:33 main.go:33: Received message with method textDocument/didSave
+[practiceLSP]2024/09/25 12:36:33 main.go:33: Received message with method textDocument/didSave
+[practiceLSP]2024/09/25 12:36:34 main.go:33: Received message with method textDocument/codeAction
+[practiceLSP]2024/09/25 12:36:52 main.go:33: Received message with method textDocument/codeAction
+[practiceLSP]2024/09/25 12:36:54 main.go:33: Received message with method textDocument/didSave

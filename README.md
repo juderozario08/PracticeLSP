@@ -1,3 +1,3 @@
 # Custom LSP
 
-Avoiding Dependencies
+Avoiding Dependencies VS Code
