@@ -1,0 +1,9 @@
+[practiceLSP]2024/09/24 22:49:11 main.go:14: LSP Attached
+[practiceLSP]2024/09/24 22:49:11 main.go:29: Received message with method initialize
+[practiceLSP]2024/09/24 22:49:11 main.go:36: Connected to Neovim 0.10.1
+[practiceLSP]2024/09/24 22:49:11 main.go:43: Sent reply
+[practiceLSP]2024/09/24 22:49:11 main.go:29: Received message with method initialized
+[practiceLSP]2024/09/24 22:49:12 main.go:29: Received message with method textDocument/didSave
+[practiceLSP]2024/09/24 22:49:13 main.go:29: Received message with method textDocument/didSave
+[practiceLSP]2024/09/24 22:49:13 main.go:29: Received message with method textDocument/didSave
+[practiceLSP]2024/09/24 22:49:13 main.go:29: Received message with method shutdown

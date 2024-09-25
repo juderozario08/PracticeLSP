@@ -1,3 +1,3 @@
-module phri/lsp/rpc
+module practiceLSP/rpc
 
 go 1.23.1
